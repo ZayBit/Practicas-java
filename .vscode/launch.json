@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - condicional_y_switch",
+            "request": "launch",
+            "mainClass": "condicional_y_switch",
+            "projectName": "java_20a4b1ea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "java_20a4b1ea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bucles",
+            "request": "launch",
+            "mainClass": "bucles",
+            "projectName": "java_20a4b1ea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - funciones",
+            "request": "launch",
+            "mainClass": "funciones",
+            "projectName": "java_20a4b1ea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - metodos_string",
+            "request": "launch",
+            "mainClass": "metodos_string",
+            "projectName": "java_20a4b1ea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello_world",
+            "request": "launch",
+            "mainClass": "Hello_world",
+            "projectName": "java_20a4b1ea"
+        }
+    ]
+}
